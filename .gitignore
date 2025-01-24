@@ -1,5 +1,5 @@
 # Ignorar todos os arquivos dentro do diretório data/
-data/*
+data_1/*
 
 # Exceto o diretório data/
-!data/
+!data_1/
