@@ -23,6 +23,17 @@ Explorar o uso do PySpark para:
 - PySpark
 - Jupyter Notebook
 
+## Dataset Utilizado
+
+O dataset de empresas utilizado neste projeto pode ser baixado pelo link abaixo:
+
+Receita Federal
+
+- [Empresas Dataset](https://caelum-online-public.s3.amazonaws.com/2273-introducao-spark/01/empresas.zip)
+- [Estabelecimentos Dataset](https://caelum-online-public.s3.amazonaws.com/2273-introducao-spark/01/estabelecimentos.zip)
+- [Socios Dataset]( https://caelum-online-public.s3.amazonaws.com/2273-introducao-spark/01/socios.zip)
+
+
 ### Instalação das Dependências
 
 1. Crie um ambiente virtual (recomendado):
@@ -30,3 +41,8 @@ Explorar o uso do PySpark para:
    python -m venv venv
    source venv/bin/activate  # Linux/Mac
    venv\Scripts\activate     # Windows
+
+
+
+
+
